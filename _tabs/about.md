@@ -10,8 +10,8 @@ While growing up I became interested in game developing and started creating sim
 
 I have now worked with companies all across the world on AAA Games, TV Series, Commercials and Game Trailers. The ever changing nature of this industry has helped me become a fast learner and develop an aptitude for problem solving. I can’t wait to see what the future has in store for me.
 
-**Published Titles:**
-
+> **Published Titles:**
+>
 > * Fallout 76 (PC, Xbox, PlayStation) Bethesda Game Studios
 > * Fallout 4: Far Harbor (PC, Xbox, PlayStation) Bethesda Game Studios
 > * Fallout 4: Automatron (PC, Xbox, PlayStation) Bethesda Game Studios
