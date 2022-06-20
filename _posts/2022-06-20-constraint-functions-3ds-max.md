@@ -3,12 +3,12 @@ title: Constraint Functions - 3DS Max
 author: Felipe Nogueira
 date: 2022-06-20 20:30:00 +0000
 categories:
-- Development
 - Blogging
+- Development
 tags:
 - Snippets
-- MaxScript
 - 3D Studio Max
+- MaxScript
 render_with_liquid: true
 
 ---
