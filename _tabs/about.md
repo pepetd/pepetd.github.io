@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: "4"
+order: "1"
 
 ---
 My name is Felipe Nogueira. I am a Lead Technical Artist/Character TD/Pipeline TD/ in the computer graphics industry. I am a graduate of the Multimedia 3D Computer Animation, diploma program, and 3D for Production: gaming and entertainment, post-graduate program, from Humber College in Toronto, Ontario.
