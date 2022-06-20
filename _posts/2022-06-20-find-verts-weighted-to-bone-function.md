@@ -18,6 +18,7 @@ The main task was to remove the influence of that bone from all meshes not neces
 
 There are also ways to get the influenced verts of selected bone by hand, but I needed a way to go through hundreds to thousands of meshes in a timely manner.
 
-<iframe src="https://player.vimeo.com/video/60972226" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div style="display: flex; align-item: center; justify-content: center;"> <iframe src="https://player.vimeo.com/video/60972226" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
+
 ..
 <script src="https://gist.github.com/pepetd/7c05ca8f442869a188a342a94b38f837.js"></script>
