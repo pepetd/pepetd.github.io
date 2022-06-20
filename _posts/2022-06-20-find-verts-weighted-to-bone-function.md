@@ -3,12 +3,12 @@ title: Find Verts Weighted To Bone Function
 author: Felipe Nogueira
 date: 2022-06-20 19:30:00 +0000
 categories:
-- Development
 - Blogging
+- Development
 tags:
 - Scripts
 - 3D Studio Max
-- Maxscript
+- MaxScript
 render_with_liquid: true
 
 ---
