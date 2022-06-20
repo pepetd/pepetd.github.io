@@ -20,4 +20,5 @@ There are also ways to get the influenced verts of selected bone by hand, but I 
 
 <iframe src="https://player.vimeo.com/video/60972226" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ..
+
 <script <script src="https://gist.github.com/pepetd/7c05ca8f442869a188a342a94b38f837.js"></script>
