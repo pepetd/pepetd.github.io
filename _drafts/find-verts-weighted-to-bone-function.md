@@ -3,7 +3,6 @@ title: Find Verts Weighted To Bone Function
 author: Felipe Nogueira
 date: 2022-06-20 19:30:00 +0000
 categories:
-- Tool Development
 - Blogging
 tags:
 - Scripts
