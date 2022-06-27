@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PePeTD Blog                         # the main title
+title: Felipe[PePeTD]Nogueira                    # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Tech Art Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Personal Development Blog for all things related to Technical Art and Tech Art Direction.
@@ -35,7 +35,7 @@ github:
   username: pepetd             # change to your github username
 
 twitter:
-  username: pepetd3d            # change to your twitter username
+  username:          # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,11 +44,10 @@ social:
   email: felipe@felipenogueira3d.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # https://twitter.com/username      # change to your twitter homepage
+    - https://www.linkedin.com/in/pepetd/
     - https://github.com/pepetd       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/pepetd/
 
 google_site_verification:               # fill in to your verification string
 
@@ -73,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [dark|light]
+theme_mode:  dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
