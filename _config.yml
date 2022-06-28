@@ -82,7 +82,7 @@ theme_mode:  light
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656379494/i6flwsgyuobf79khyeqs.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
