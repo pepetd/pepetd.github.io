@@ -118,3 +118,21 @@ title="Midjourney Fantasy Trees Variants 3"/>
 </tbody>
 </table>
 </center>
+
+I then chose to Upscale variation 4 from the variants made from choice # 3, I did upscaled it twice, once you upscale the first time you can either create variations for it or upscale it to max. I went ahead and upscaled it to max.
+
+<center>
+<table>
+<caption style="text-align:center">Final Upscaled Fantasy Tree</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-upscale-1.png"
+title="Midjourney Fantasy Trees Upscaled"/>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+
+The ammount of detail that Midjourney add is pretty impressive at times, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
