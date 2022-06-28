@@ -2,6 +2,7 @@
 title: About
 icon: fas fa-info-circle
 order: "1"
+published: false
 
 ---
 ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568431903/aboutmeop_xnqgcn.jpg)  
@@ -11,7 +12,7 @@ While growing up I became interested in game developing and started creating sim
 
 I have now worked with companies all across the world on AAA Games, TV Series, Commercials and Game Trailers. The ever changing nature of this industry has helped me become a fast learner and develop an aptitude for problem solving. I can’t wait to see what the future has in store for me.  
   
-[https://www.linkedin.com/in/pepetd/](https://www.linkedin.com/in/pepetd/ "LinkedIn Profile")
+@fa-linkedin [https://www.linkedin.com/in/pepetd/](https://www.linkedin.com/in/pepetd/ "LinkedIn Profile")
 
 > **Published Titles:**
 >
