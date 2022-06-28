@@ -23,8 +23,8 @@ Concept artists can use an AI like this to enable their creativity and help them
 	<caption>Table 1</caption>
 	<tbody>
 	<tr>
-		<td><img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png"
-title="Midjourney Citry"/></td>
+		<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png"
+title="Midjourney Citry"/>
 	</tr>
 	<tbody>
 </table>
