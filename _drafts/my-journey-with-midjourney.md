@@ -14,6 +14,6 @@ render_with_liquid: true
 ---
 | ![midjourney-felipe-1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney-City") |
 |:--:|
-| <b>Prompt - post apocalyptic ruined city, black and white, aerial view</b>|
+| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
 
 IMidjopurney
