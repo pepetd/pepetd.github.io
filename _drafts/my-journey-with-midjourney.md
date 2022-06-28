@@ -22,13 +22,13 @@ Concept artists can use an AI like this to enable their creativity and help them
 |:--:|
 | <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
 
-Now this AI is not perfect and learning how to write a good prompt, it takes practice in order to start understanding how the AI processes the prompts. You will get some interesting results along the way.
+Now this AI is not perfect and learning how to write a good prompt, it takes practice in order to start understanding how the AI processes the prompts. You will get some interesting results along the way, but that is not necesserely a bad thing! these "happy accidents" as I like to call them, are simply adding ideas to your imagination as well as teaching you how to better control thje AI.
 
 <table>
 <tbody>
 	<tr>
 		<td>
-      		<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png" width="400" height="500" />
+      		<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png" width="200"/>
       	</td>
 		<td>Column 2</td>
 		<td>Column 3</td>
