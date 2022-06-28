@@ -18,9 +18,27 @@ This tech is absolutely game changing, and all for the right reasons! I have spo
 
 Concept artists can use an AI like this to enable their creativity and help them come up with more varied and creative Ideas, This would like finding just the right reference for your work, but instead of going to google for it, you are creating your own reference imaged based particularly on what  prompts you are looking for.
 
-|  |
-| :---: |
-| /imagine prompt - post apocalyptic ruined city, black and white, aerial view |
+<center>
+<table>
+<caption style="text-align:center">/imagine prompt - cat samurai</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/midjourney-cat-samurai-options.png"
+title="Midjourney Cat Samurai Ideas"
+width="250"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391291/midjourney-cat-samurai-updscale1.png"
+title="Midjourney Cat Samurai Upscale 1"
+width="250"/>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
 
 Now this AI is not perfect and learning how to write a good prompt takes practice, you will need to understanding the "language" of how the AI processes the prompts. You will get some interesting results along the way, but that is not necessarily a bad thing! These "happy accidents", as I like to call them, are simply adding ideas to your imagination as well as teaching you how to better control the AI.
 
