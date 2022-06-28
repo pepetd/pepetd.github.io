@@ -17,4 +17,4 @@ Snippet to constraint all selected nodes to the last selected.
 
 ..
 
-<script src="[https://gist.github.com/pepetd/2478b457cf8e59c33e91c7c6976c407d.js](https://gist.github.com/pepetd/2478b457cf8e59c33e91c7c6976c407d.js "https://gist.github.com/pepetd/2478b457cf8e59c33e91c7c6976c407d.js")"></script>
+<script src="https://gist.github.com/pepetd/2478b457cf8e59c33e91c7c6976c407d.js"></script>
