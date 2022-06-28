@@ -1,10 +1,11 @@
 ---
-title: Find Verts Weighted To Bone Function
+title: Find Verts Weighted To Bone Function - MaxScript
 author: Felipe Nogueira
 date: 2015-03-23 15:31:00 -0400
 categories:
 - Development
 - Blogging
+- 3D Studio Max
 tags:
 - 3D Studio Max
 - MaxScript
