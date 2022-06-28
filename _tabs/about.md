@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: "1"
 
 ---
+![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568431903/aboutmeop_xnqgcn.jpg)  
 My name is Felipe Nogueira. I am a Lead Technical Artist/Character TD/Pipeline TD/ in the computer graphics industry. I am a graduate of the Multimedia 3D Computer Animation, diploma program, and 3D for Production: gaming and entertainment, post-graduate program, from Humber College in Toronto, Ontario.
 
 While growing up I became interested in game developing and started creating simple Pascal “play by text” games and simple Visual Basics games. I then moved on to creating several online text RPG’s based on famous Japanese cartoons at the time. I also started learning the basics of 3D animation at that time, when it came around for me to apply to colleges, I knew I wanted to do one of two things, programming or 3D animation, either would give me the proper training to work in developing games and/or work in CG.
