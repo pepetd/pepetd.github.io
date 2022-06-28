@@ -102,8 +102,6 @@ title="Midjourney Fantasy Trees Variants 2"/>
 </tr>
 </tbody>
 </table>
-</center>
-<center>
 <table>
 <caption style="text-align:center">Variations for choice # 3</caption>
 <tbody>
