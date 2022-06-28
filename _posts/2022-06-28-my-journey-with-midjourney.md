@@ -14,11 +14,13 @@ render_with_liquid: true
 ---
 ## My Thoughts.
 
-I have now spent over a month playing with Midjourney during my free time, I have to be honest, I did not know much about it up until the day I got accepted into Beta, and I have been in awe from day one!
+I have now spent over a month playing with Midjourney during my free time, I did not know much about it up until the day I got accepted into the Beta, and I have been in awe from day one!
 
-This tech is absolutely game changing, and all for the right reasons! I have spoken to some concept artists colleagues of mine and while some welcomed this tech, some were concerned with it, thinking that it could render junior concept artists obsolete or make their work less valuable. I actually thing the opposite, this tool can be used to help their creativity and bridge the gap of communication when trying to find what an Art director is asking for.
+This tech is absolutely game changing and all for the right reasons! I have spoken to some concept artists colleagues of mine and while some welcomed this tech, the majority were concerned with it, thinking that it could render junior concept artists obsolete or make their work less valuable. I actually think the opposite, this tool can be used to help their creativity and bridge the gap of communication when trying to find what an Art director is asking for.
 
-Concept artists can use an AI like this to enable their creativity and help them come up with more varied and creative Ideas, This would like finding just the right reference for your work, but instead of going to google for it, you are creating your own reference imaged based particularly on what  prompts you are looking for.
+Concept artists can use an AI like this to enable their creativity and help them come up with more varied and creative Ideas, It would be like finding just the perfect reference for their work, but instead of going to google for it, you are creating your own reference images based particularly on what prompts desire.
+
+While I understand that Midjourney is not the first AI to do what it does, I do believe that it is currently the best.
 
 <center>
 <table>
@@ -34,7 +36,7 @@ title="Midjourney City"/>
 </table>
 </center>
 
-Now this AI is not perfect and learning how to write a good prompt takes practice, you will need to understanding the "language" of how the AI processes the prompts. You will get some interesting results along the way, but that is not necessarily a bad thing! These "happy accidents", as I like to call them, are simply adding ideas to your imagination as well as teaching you how to better control the AI.
+Now this AI is not perfect and learning how to write a good prompt takes practice, you will need to understand the "language" of how the AI processes the prompts. You will get some interesting results along the way, but that is not necessarily a bad thing! These "happy accidents" as I like to call them, are simply adding ideas to your imagination as well as teaching you how to better control the AI through the prompts.
 
 <center>
 <table>
@@ -70,7 +72,7 @@ width="250"/>
 
 ## Creating Images with Midjourney.
 
-The process to start creating your imagines through Midjourney is pretty simple, once you are invited by someone or accepted into the Beta, you will be asked to join their discord server where they will point you to one of the newbie channels, there you will start to create anything your mind can come up with by simply typing /imagine - this will automatically add a prompt field to your message and that is where you will type your prompt.
+The process to start creating your imagines through Midjourney is pretty simple, once you are invited by someone or accepted into the Beta, you will be asked to join their discord server where they will point you to one of the newbie channels, there you will start to create anything your mind can come up with by simply typing /imagine - this will automatically add a prompt field to your message and that is where you will type your prompt - the description of what you want.
 
 This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9.
 
@@ -88,11 +90,11 @@ title="Midjourney Fantasy Trees Brainstorming"/>
 </table>
 </center>
 
-As you can see, you can use some syntaxing for changing the aspect ratio, the height and/or width of the rendered imagines (--h 800 would set the height to 800 pixels), by default the images will render at 1:1 aspect ratio. I like setting my images to --aspect 16:9.
+As you can see, you can use some syntaxing for changing the aspect ratio, the height and/or width of the rendered imagines, (--h 800 would set the height to 800 pixels) by default the images will render at 1:1 aspect ratio. I like setting my images to --aspect 16:9.
 
-Once you get your first 4 choices, you can then create variants for each one or upscale them, upscale will increase the resolution as well as add plenty of detail, you can create variants after you upscale so you do not need to commit to making variants before trying out to upscale something.
+Once you get your first 4 choices, you can then create variants for each one or upscale them, upscale will increase the resolution as well as add plenty of detail, you can create variants after you upscale so you do not need to commit to making variants before trying to upscale something.
 
-I decided to create variantions for choices 2 and 3 as those were more appealing to me.
+I decided to create variations for choices 2 and 3 as those were more appealing to me.
 
 <center>
 <table>
@@ -135,13 +137,13 @@ title="Midjourney Fantasy Trees Upscaled"/>
 </table>
 </center>
 
-The amount of detail that Midjourney add is pretty impressive at times, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
+The amount of detail that Midjourney adds is pretty impressive, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
 
 ## Conclusion.
 
-Midjouney should be seen as tool and not a replacement for talented artists. The technology will only get better and eventually it will deal a lot better with faces and human characters as so far those are the subject matter it seems to struggle with.
+Midjouney should be seen as tool and not a replacement for talented artists. The technology will only get better as it "learns" and eventually it will deal a lot better with faces and human characters as so far those are the subject matter it seems to struggle with.
 
-The use cases for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with design for their Dungeons&Dragons characters, album covers, book covers and ever comic books. Its application is essentially endless!
+The use cases for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with designs for their Dungeons & Dragons characters, album covers, book covers and ever comic books. Its application is essentially endless!
 
 <center>
 <button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!
