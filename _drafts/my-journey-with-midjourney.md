@@ -20,7 +20,7 @@ Concept artists can use an AI like this to enable their creativity and help them
 
 | ![Midjourney-Felipe1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney City") |
 |:--:|
-| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
+| /imagine prompt - post apocalyptic ruined city, black and white, aerial view |
 
 Now this AI is not perfect and learning how to write a good prompt takes practice, you will need to understanding the "language" of how the AI processes the prompts. You will get some interesting results along the way, but that is not necesserely a bad thing! These "happy accidents", as I like to call them, are simply adding ideas to your imagination as well as teaching you how to better control the AI.
 
