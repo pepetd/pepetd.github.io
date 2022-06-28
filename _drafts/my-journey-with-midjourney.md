@@ -24,7 +24,6 @@ Concept artists can use an AI like this to enable their creativity and help them
 
 Now this AI is not perfect and learning how to write a good prompt, it takes practice in order to start understanding how the AI processes the prompts. You will get some interesting results along the way.
 
-   |   
----|---
- ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)  |   ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)
- ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)  |   ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)
++--------------:+:--------------+:------------------:+
+| Right         | Left          | Centered           |
++---------------+---------------+--------------------+
