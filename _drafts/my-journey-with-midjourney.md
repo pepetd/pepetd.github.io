@@ -68,7 +68,7 @@ width="250"/>
 
 The process to start creating your imagines through Midjourney is pretty simple, once you are invited by someone or accepted into the Beta, you will be asked to join their discord server where they will point you to one of the newbie channels, there you will start to create anything your mind can come up with by simply typing /imagine - this will automatically add a prompt field to your message and that is where you will type your prompt.
 
-This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9
+This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9.
 
 <center>
 <table>
@@ -84,4 +84,35 @@ title="Midjourney Fantasy Trees Brainstorming"/>
 </table>
 </center>
 
-As you can see you can usee some syntaxing for changeing the spect ratio or the height and or width of the rendered imagines(--h 800 would set the height to 800 pixels), by default the images will render at 1:1
+As you can see, you can use some syntaxing for changing the aspect ratio, the height and/or width of the rendered imagines (--h 800 would set the height to 800 pixels), by default the images will render at 1:1 aspect ratio. I like setting my images to --aspect 16:9.
+
+Once you get your first 4 choices, you can then create variants for each one or updscale them, upscale will increase the resolution as well as add plenty of detail, you can create variants after you upscale so you do not need to commit to making variants before trying out to upscale something.
+
+I decided to create variantions for choices 2 and 3 as those were more appealing to me.
+
+<center>
+<table>
+<caption style="text-align:center">Variations for choice # 2</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-variants-from-2.png"
+title="Midjourney Fantasy Trees Variants 2"/>
+ </td>
+</tr>
+</tbody>
+</table>
+</center>
+<center>
+<table>
+<caption style="text-align:center">Variations for choice # 3</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-variants-from-3.png"
+title="Midjourney Fantasy Trees Variants 3"/>
+ </td>
+</tr>
+</tbody>
+</table>
+</center>
