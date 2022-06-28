@@ -20,7 +20,7 @@ Concept artists can use an AI like this to enable their creativity and help them
 
 <center>
 <table>
-<caption style="text-align:center">/imagine prompt - cat samurai</caption>
+<caption style="text-align:center">/imagine prompt - post apocalyptic ruined city, black and white, aerial view</caption>
 <tbody>
 <tr>
 <td>
@@ -70,8 +70,18 @@ The process to start creating your imagines through Midjourney is pretty simple,
 
 This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9
 
-|  |
-| :---: |
-| First 4 choice for the prompt |
+<center>
+<table>
+<caption style="text-align:center">First 4 choice for the prompt</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-ideas.png"
+title="Midjourney Fantasy Trees Brainstorming"/>
+ </td>
+</tr>
+</tbody>
+</table>
+</center>
 
 As you can see you can usee some syntaxing for changeing the spect ratio or the height and or width of the rendered imagines(--h 800 would set the height to 800 pixels), by default the images will render at 1:1
