@@ -12,6 +12,8 @@ tags:
 render_with_liquid: true
 
 ---
+## My Thoughts.
+
 I have now spent over a month playing with Midjourney during my free time, I have to be honest, I did not know much about it up until the day I got accepted into Beta, and I have been in awe from day one!
 
 This tech is absolutely game changing, and all for the right reasons! I have spoken to some concept artists colleagues of mine and some welcomed this tech and some were concerned with it, thinking that it could render junior concept artists obsolete or make their work less valuable. I actually thing the opposite, this tool can be used to help their creativity and bridge the gap of communication when trying to find what an Art director is asking for.
@@ -26,7 +28,7 @@ Concept artists can use an AI like this to enable their creativity and help them
 <td>
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png"
 title="Midjourney City"/>
- </td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -66,6 +68,8 @@ width="250"/>
 </table>
 </center>
 
+## Creating Images with Midjourney.
+
 The process to start creating your imagines through Midjourney is pretty simple, once you are invited by someone or accepted into the Beta, you will be asked to join their discord server where they will point you to one of the newbie channels, there you will start to create anything your mind can come up with by simply typing /imagine - this will automatically add a prompt field to your message and that is where you will type your prompt.
 
 This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9.
@@ -78,7 +82,7 @@ This is one of the prompts I used: fantasy tree, mythical creatures, realistic, 
 <td>
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-ideas.png"
 title="Midjourney Fantasy Trees Brainstorming"/>
- </td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +102,7 @@ I decided to create variantions for choices 2 and 3 as those were more appealing
 <td>
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-variants-from-2.png"
 title="Midjourney Fantasy Trees Variants 2"/>
- </td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +113,7 @@ title="Midjourney Fantasy Trees Variants 2"/>
 <td>
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-variants-from-3.png"
 title="Midjourney Fantasy Trees Variants 3"/>
- </td>
+</td>
 </tr>
 </tbody>
 </table>
