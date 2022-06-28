@@ -1,7 +1,7 @@
 ---
 title: Constraint Functions - 3DS Max
 author: Felipe Nogueira
-date: 2022-06-20 20:30:00 +0000
+date: 2015-03-22 15:28:00 -0400
 categories:
 - Development
 - Blogging
