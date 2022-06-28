@@ -1,10 +1,11 @@
 ---
-title: Constraint Functions - 3DS Max
+title: Constraint Functions - MaxScript
 author: Felipe Nogueira
 date: 2015-03-22 15:28:00 -0400
 categories:
 - Development
 - Blogging
+- 3D Studio Max
 tags:
 - 3D Studio Max
 - MaxScript
