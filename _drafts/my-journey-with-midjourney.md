@@ -56,6 +56,6 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 </table>
 </center>
 
-| Midjourney progress from starting blockouts to final images |
+| ![Midjourney-Felipe1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney City") |
 |:--:|
-| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
+| /imagine prompt - post apocalyptic ruined city, black and white, aerial view |
