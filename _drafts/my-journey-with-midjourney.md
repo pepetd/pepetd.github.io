@@ -72,7 +72,7 @@ This is one of the prompts I used: fantasy tree, mythical creatures, realistic, 
 
 <center>
 <table>
-<caption style="text-align:center">First 4 choice for the prompt</caption>
+<caption style="text-align:center">First 4 choice for the Fantasy Tree</caption>
 <tbody>
 <tr>
 <td>
