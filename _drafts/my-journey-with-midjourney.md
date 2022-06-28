@@ -26,7 +26,7 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 
 <center>
 <table>
-  <center><caption>/imagine prompt - cat samurai</caption></center>
+  <caption style="text-align:center">/imagine prompt - cat samurai</caption>
 <tbody>
 	<tr>
 		<td>
