@@ -1,7 +1,7 @@
 ---
 title: Create FK Chain - Maya Python
 author: Felipe Nogueira
-date: 2022-06-20 17:00:00 -0400
+date: 2015-03-23 15:29:00 -0400
 categories:
 - Development
 - Blogging
