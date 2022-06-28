@@ -26,5 +26,5 @@ Now this AI is not perfect and learning how to write a good prompt, it takes pra
 
    |   
 ---|---
- ![](./pic/pic1s.png =250x)  |   ![](./pic/pic1s.png =250x)
- ![](./pic/pic1s.png =250x)  |   ![](./pic/pic1s.png =250x)
+ ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)  |   ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)
+ ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)  |   ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/mj0nbkrn3aohybl8l832.png =250x)
