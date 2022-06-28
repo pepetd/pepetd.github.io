@@ -173,24 +173,58 @@ title="Midjourney Alien Planet"/>
 </tbody>
 </table>
   <table>
-<caption style="text-align:center">Final Upscaled Fantasy Tree</caption>
+<caption style="text-align:center">/imagine prompt: elven city in the style of tolkien, realistic, rolling clouds through the city, vast landscape --aspect 16:9</caption>
 <tbody>
 <tr>
 <td>
-<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-upscale-1.png"
-title="Midjourney Fantasy Trees Upscaled"/>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391313/por7kqwoeivltcey0epb.png"
+title="Midjourney Tolkien Elven City #1"/>
 </td>
 </tr>
 </tbody>
 </table>
   <table>
-<caption style="text-align:center">Final Upscaled Fantasy Tree</caption>
+<caption style="text-align:center">/imagine prompt: giant sprawling medieval city by a giant waterfall straight from the world of tolkien --aspect 16:9</caption>
 <tbody>
 <tr>
 <td>
-<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-upscale-1.png"
-title="Midjourney Fantasy Trees Upscaled"/>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391312/vdpxuezkqci7ijugccdo.png"
+title="Midjourney Tolkien Elven City #2"/>
 </td>
 </tr>
 </tbody>
 </table>
+   <table>
+<caption style="text-align:center">/imagine prompt: a robot army fighting in the streets of a ruined city at dawn, explosions, giant mechs, 35mm footage --aspect 16:9</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391312/pztkq5rcgn9unnhfvbhn.png"
+title="Midjourney Mechwarrior"/>
+</td>
+</tr>
+</tbody>
+</table>
+   <table>
+<caption style="text-align:center">/imagine prompt: a vast futuristic city with skyscrapers reaching the clouds at night --aspect 16:9</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391312/sddel4yroz8ijtuonyef.png"
+title="Midjourney Futuristic City"/>
+</td>
+</tr>
+</tbody>
+</table>
+     <table>
+<caption style="text-align:center">/imagine prompt: beautiful cosmic flowers, silky lines, colorful, realistic, relaxing vibe, pretty, full --h 800</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391314/r9uefrtgwtywmjuqq1ie.png"
+title="Midjourney Cosmic Flowers"/>
+</td>
+</tr>
+</tbody>
+</table>
+  </center>
