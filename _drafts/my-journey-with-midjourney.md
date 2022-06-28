@@ -25,13 +25,6 @@ Concept artists can use an AI like this to enable their creativity and help them
 Now this AI is not perfect and learning how to write a good prompt, it takes practice in order to start understanding how the AI processes the prompts. You will get some interesting results along the way.
 
 <table>
-<thead>
-	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-		<th>Header :</th>
-	</tr>
-</thead>
 <tbody>
 	<tr>
 		<td>Column 1</td>
