@@ -27,7 +27,7 @@ Concept artists can use an AI like this to enable their creativity and help them
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/midjourney-cat-samurai-options.png"
 title="Midjourney Cat Samurai Ideas"
 width="250"/>
-</td>
+ </td>
 </tr>
 </tbody>
 </table>
