@@ -62,4 +62,4 @@ This is one of the prompts I used: fantasy tree, mythical creatures, realistic, 
 
 | ![Midjourney-Felipe2.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-ideas.png "Midjourney Fantasy Tree Brain Storming") |
 |:--:|
-| /imagine prompt - fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9 |
+| First 4 choice for the prompt |
