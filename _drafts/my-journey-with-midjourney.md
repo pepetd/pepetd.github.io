@@ -119,7 +119,7 @@ title="Midjourney Fantasy Trees Variants 3"/>
 </table>
 </center>
 
-I then chose to Upscale variation 4 from the variants made from choice # 3, I did upscaled it twice, once you upscale the first time you can either create variations for it or upscale it to max. I went ahead and upscaled it to max.
+I then chose to pscale variation # 4 from the variants made from choice # 3, I did upscaled it twice, once you upscale the first time you can either create variations for it or upscale it to max. I went ahead and upscaled it to max.
 
 <center>
 <table>
@@ -136,3 +136,11 @@ title="Midjourney Fantasy Trees Upscaled"/>
 </center>
 
 The ammount of detail that Midjourney add is pretty impressive at times, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
+
+## Conclusion.
+
+Midjouney should be seeing as tool and not a replacement for talented artists. The technology will only get better and eventually it will be able to deal alot better with faces/human characters as so far it is the subject matter it seems to struglw with and start to fall appart.
+
+Its usages are far beyong concept art and illustration, I have seen people now using midjourney to come up with designes for the Dungeons & Dragons Characters, album covers, book covers and ever comic books. Its application is endless
+
+<button name="button" onclick="https://www.midjourney.com/">Apply to Midjourney Beta now!</button>
