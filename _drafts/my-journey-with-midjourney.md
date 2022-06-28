@@ -26,6 +26,7 @@ Now this AI is not perfect and learning how to write a good prompt, it takes pra
 
 <center>
 <table>
+   <caption>/imagine prompt - cat samurai</caption>
 <tbody>
 	<tr>
 		<td>
@@ -50,32 +51,3 @@ Now this AI is not perfect and learning how to write a good prompt, it takes pra
 </tbody>
 </table>
 </center>
-
-| <center>
-<table>
-<tbody>
-	<tr>
-		<td>
-      		<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656392589/wwhrahte6lizavjuchye.png" 
-                 title="this will be displayed as a tooltip" width="250"/>
-      	</td>
-		<td>
-          <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391291/zzlun85hpkv11gtcyumc.png" 
-               title="this will be displayed as a tooltip" width="250"/>
-     	</td>
-	</tr>
-	<tr>
-		<td>
-      		<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391291/kykhhkfwhljep2advktg.png" 
-                 title="this will be displayed as a tooltip" width="250"/>
-      	</td>
-		<td>
-          <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391291/augugggrqa9mdsabmnhm.png" 
-               title="this will be displayed as a tooltip" width="250"/>
-     	</td>
-	</tr>
-</tbody>
-</table>
-</center> |
-|:--:|
-| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
