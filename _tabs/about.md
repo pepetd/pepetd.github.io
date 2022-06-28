@@ -10,9 +10,9 @@ My name is Felipe Nogueira. I am a Lead Technical Artist/Character TD/Pipeline T
 
 While growing up I became interested in game developing and started creating simple Pascal “play by text” games and simple Visual Basics games. I then moved on to creating several online text RPG’s based on famous Japanese cartoons at the time. I also started learning the basics of 3D animation at that time, when it came around for me to apply to colleges, I knew I wanted to do one of two things, programming or 3D animation, either would give me the proper training to work in developing games and/or work in CG.
 
-I have now worked with companies all across the world on AAA Games, TV Series, Commercials and Game Trailers. The ever changing nature of this industry has helped me become a fast learner and develop an aptitude for problem solving. I can’t wait to see what the future has in store for me.  
-  
-<i class="fab fa-linkedin"></i>
+I have now worked with companies all across the world on AAA Games, TV Series, Commercials and Game Trailers. The ever changing nature of this industry has helped me become a fast learner and develop an aptitude for problem solving. I can’t wait to see what the future has in store for me.
+
+<i class="fab fa-linkedin"></i> [https://www.linkedin.com/in/pepetd/](Felipe Nogueira "Felipe's LinkedIn Profile")
 
 > **Published Titles:**
 >
