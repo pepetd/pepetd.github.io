@@ -27,7 +27,7 @@ Now this AI is not perfect and learning how to write a good prompt, it takes pra
 <table>
 <tbody>
 	<tr>
-		<td>Column 1</td>
+		<td>![Midjourney-Felipe1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney City" =250x)</td>
 		<td>Column 2</td>
 		<td>Column 3</td>
 	</tr>
