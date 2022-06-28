@@ -65,7 +65,7 @@ google_analytics:
 #
 # Note: Keep empty will follow the system prefer color by default,
 # and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
+# on the bottom left of the sidebar.12:02 AM 6/28/2022
 #
 # Available options:
 #
@@ -82,7 +82,7 @@ theme_mode:  light
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656379494/i6flwsgyuobf79khyeqs.jpg
+avatar: https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656388960/profile_pic1.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
