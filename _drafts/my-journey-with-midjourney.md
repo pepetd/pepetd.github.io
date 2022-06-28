@@ -143,13 +143,4 @@ Midjouney should be seeing as tool and not a replacement for talented artists. T
 
 Its usages are far beyong concept art and illustration, I have seen people now using midjourney to come up with designes for the Dungeons & Dragons Characters, album covers, book covers and ever comic books. Its application is endless
 
-<button name="button" onclick="https://www.midjourney.com/">Apply to Midjourney Beta now!</button>
-
-[Click me](https://www.midjourney.com/){: .btn}
-
-
-<a class="btn btn-success" href="https://www.google.com" target="_blank">Google</a>
-
-<a href="http://example.com/" target="_blank">example</a>
-
-<button class="btn btn-success" onclick=" window.open('http://google.com','_blank')"> Google</button>
+<button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!</button>
