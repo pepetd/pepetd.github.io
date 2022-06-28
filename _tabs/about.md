@@ -2,7 +2,6 @@
 title: About
 icon: fas fa-info-circle
 order: "1"
-published: false
 
 ---
 ![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568431903/aboutmeop_xnqgcn.jpg)  
@@ -17,7 +16,6 @@ I have now worked with companies all across the world on AAA Games, TV Series, C
 <pre>
  <i class="fab fa-linkedin fa-lg"></i> <a href="https://www.linkedin.com/in/pepetd/" title="Felipe's LinkedIn Profile" target="_blank">Felipe Nogueira</a>
  </pre>
-
 > **Published Titles:**
 >
 > * Fallout 76 (PC, Xbox, PlayStation) Bethesda Game Studios
