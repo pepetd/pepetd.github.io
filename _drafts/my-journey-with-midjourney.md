@@ -18,14 +18,12 @@ This Tech is absolutelly game changing, and all for the right reasons! I spent s
 
 More of then not the communication barrier between two people is the main reason why an Idea is not getting across properly, now imagine an Art Director and a co
 
-| ![midjourney-felipe-1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney-City") |
-|:--:|
-| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
- 
+|  |
+| :---: |
+| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b> |
 
-
-|   |   |   |
-|:---:|:---:|:---:|
-|  test |  test | test  |
-|   |   |   |
-|   |   |   |
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
