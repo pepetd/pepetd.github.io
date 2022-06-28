@@ -4,12 +4,18 @@ icon: fas fa-info-circle
 order: "1"
 
 ---
-My name is Felipe Nogueira. I am a Lead Technical Artist/Character TD/Pipeline TD/ in the computer graphics industry. I am a graduate of the Multimedia 3D Computer Animation, diploma program, and 3D for Production: gaming and entertainment, post-graduate program, from Humber College in Toronto, Ontario.
+![](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568431903/aboutmeop_xnqgcn.jpg)  
+Hello! My name is Felipe Nogueira. 
 
-While growing up I became interested in game developing and started creating simple Pascal “play by text” games and simple Visual Basics games. I then moved on to creating several online text RPG’s based on famous Japanese cartoons at the time. I also started learning the basics of 3D animation at that time, when it came around for me to apply to colleges, I knew I wanted to do one of two things, programming or 3D animation, either would give me the proper training to work in developing games and/or work in CG.
+I am a Lead Technical Artist/Technical Art Director in the video games industry, currently leading the Tech Art team @ Bethesda Game Studios. I graduated from the Multimedia 3D Computer Animation diploma program and the 3D for Production: Gaming and Entertainment post-graduate program from Humber College in Toronto, Ontario, Canada.
+
+While growing up I became interested in game developing and started creating simple Pascal “play by text” games and simple Visual Basics games. I then moved on to creating several online play-by-text RPG websites based on famous Japanese cartoons at the time. I also started learning the basics of 3D animation at a young age, when it came around for me to apply to colleges, I knew exactly what I wanted to do.
 
 I have now worked with companies all across the world on AAA Games, TV Series, Commercials and Game Trailers. The ever changing nature of this industry has helped me become a fast learner and develop an aptitude for problem solving. I can’t wait to see what the future has in store for me.
 
+<pre>
+ <i class="fab fa-linkedin fa-lg"></i> <a href="https://www.linkedin.com/in/pepetd/" title="Felipe's LinkedIn Profile" target="_blank">Felipe Nogueira</a>
+ </pre>
 > **Published Titles:**
 >
 > * Fallout 76 (PC, Xbox, PlayStation) Bethesda Game Studios
