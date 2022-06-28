@@ -56,3 +56,10 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 </table>
 </center>
 
+The process to start creating your imagines through Midjourney is pretty simple, once you are invited by someone or accepted into the Beta, you will be asked to join their discord server where they will point you to one of the newbie channels, there you will start to create anything your mind can come up with by simply typing /imagine - this will automatically add a prompt field to your message and that is where you will type your prompt.
+
+This is one of the prompts I used: fantasy tree, mythical creatures, realistic, rendered in octane, vast landscape, high fantasy, magical, intricate -- aspect 16:9
+
+| ![Midjourney-Felipe1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney City") |
+|:--:|
+| /imagine prompt - post apocalyptic ruined city, black and white, aerial view |
