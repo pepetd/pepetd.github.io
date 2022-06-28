@@ -90,7 +90,7 @@ title="Midjourney Fantasy Trees Brainstorming"/>
 
 As you can see, you can use some syntaxing for changing the aspect ratio, the height and/or width of the rendered imagines (--h 800 would set the height to 800 pixels), by default the images will render at 1:1 aspect ratio. I like setting my images to --aspect 16:9.
 
-Once you get your first 4 choices, you can then create variants for each one or updscale them, upscale will increase the resolution as well as add plenty of detail, you can create variants after you upscale so you do not need to commit to making variants before trying out to upscale something.
+Once you get your first 4 choices, you can then create variants for each one or upscale them, upscale will increase the resolution as well as add plenty of detail, you can create variants after you upscale so you do not need to commit to making variants before trying out to upscale something.
 
 I decided to create variantions for choices 2 and 3 as those were more appealing to me.
 
@@ -119,7 +119,7 @@ title="Midjourney Fantasy Trees Variants 3"/>
 </table>
 </center>
 
-I then chose to pscale variation # 4 from the variants made from choice # 3, I did upscaled it twice, once you upscale the first time you can either create variations for it or upscale it to max. I went ahead and upscaled it to max.
+I then chose to upscale variation # 4 from the variants made from choice # 3, I did upscaled it twice, once you upscale the first time you can either create variations for it or upscale it to max. I went ahead and upscaled it to max.
 
 <center>
 <table>
@@ -135,12 +135,12 @@ title="Midjourney Fantasy Trees Upscaled"/>
 </table>
 </center>
 
-The ammount of detail that Midjourney add is pretty impressive at times, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
+The amount of detail that Midjourney add is pretty impressive at times, I think anyone would agree that in the end we ended up with an appealing and original idea for a Fantasy Tree!
 
 ## Conclusion.
 
-Midjouney should be seeing as tool and not a replacement for talented artists. The technology will only get better and eventually it will be able to deal alot better with faces/human characters as so far it is the subject matter it seems to struglw with and start to fall appart.
+Midjouney should be seen as tool and not a replacement for talented artists. The technology will only get better and eventually it will deal a lot better with faces and human characters as so far those are the subject matter it seems to struggle with.
 
-Its usages are far beyong concept art and illustration, I have seen people now using midjourney to come up with designes for the Dungeons & Dragons Characters, album covers, book covers and ever comic books. Its application is endless
+the usages for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with design for their Dungeons&Dragons characters, album covers, book covers and ever comic books. Its application is endless
 
 <button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!</button>
