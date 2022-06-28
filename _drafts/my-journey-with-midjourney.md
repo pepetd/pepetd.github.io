@@ -146,3 +146,6 @@ Its usages are far beyong concept art and illustration, I have seen people now u
 <button name="button" onclick="https://www.midjourney.com/">Apply to Midjourney Beta now!</button>
 
 [Click me](https://www.midjourney.com/){: .btn}
+
+
+<a class="btn btn-success" href="https://www.google.com" target="_blank">Google</a>
