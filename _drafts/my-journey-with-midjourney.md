@@ -149,3 +149,7 @@ Its usages are far beyong concept art and illustration, I have seen people now u
 
 
 <a class="btn btn-success" href="https://www.google.com" target="_blank">Google</a>
+
+<a href="http://example.com/" target="_blank">example</a>
+
+<button class="btn btn-success" onclick=" window.open('http://google.com','_blank')"> Google</button>
