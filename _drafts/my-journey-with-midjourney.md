@@ -141,6 +141,56 @@ The amount of detail that Midjourney add is pretty impressive at times, I think 
 
 Midjouney should be seen as tool and not a replacement for talented artists. The technology will only get better and eventually it will deal a lot better with faces and human characters as so far those are the subject matter it seems to struggle with.
 
-the usages for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with design for their Dungeons&Dragons characters, album covers, book covers and ever comic books. Its application is endless
+The use cases for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with design for their Dungeons&Dragons characters, album covers, book covers and ever comic books. Its application is essentially endless!
 
-<button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!</button>
+<center>
+  <button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!
+  </button>
+</center>
+
+## My Midjourney Showcase.
+<center>
+<table>
+<caption style="text-align:center">/imagine prompt: vast planet landscape as imagined in the world of DUNE, spaceships landsing --aspect 16:9</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391313/pps7xjf9z3puv71zmjuk.png"
+title="Midjourney Dune Planet"/>
+</td>
+</tr>
+</tbody>
+</table>
+  <table>
+<caption style="text-align:center">/imagine prompt: alien planet, alien plants, bast waste land, vibrant colors, detailed, realistic --aspect 16:9</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391313/mfekevms5hmflpfs1dl0.png"
+title="Midjourney Alien Planet"/>
+</td>
+</tr>
+</tbody>
+</table>
+  <table>
+<caption style="text-align:center">Final Upscaled Fantasy Tree</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-upscale-1.png"
+title="Midjourney Fantasy Trees Upscaled"/>
+</td>
+</tr>
+</tbody>
+</table>
+  <table>
+<caption style="text-align:center">Final Upscaled Fantasy Tree</caption>
+<tbody>
+<tr>
+<td>
+<img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656395271/midjourney-fantasy-tree-upscale-1.png"
+title="Midjourney Fantasy Trees Upscaled"/>
+</td>
+</tr>
+</tbody>
+</table>
