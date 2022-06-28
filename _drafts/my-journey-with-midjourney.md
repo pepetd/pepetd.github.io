@@ -12,3 +12,4 @@ tags:
 render_with_liquid: true
 
 ---
+![post apocalyptic ruined city, black and white, aerial view](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney-City")
