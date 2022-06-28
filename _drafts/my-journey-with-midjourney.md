@@ -26,7 +26,7 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 
 <center>
 <table>
-   <caption>/imagine prompt - cat samurai</caption>
+  <center><caption>/imagine prompt - cat samurai</caption></center>
 <tbody>
 	<tr>
 		<td>
@@ -56,6 +56,3 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 </table>
 </center>
 
-| ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) |
-|:--:|
-| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|view |
