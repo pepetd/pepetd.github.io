@@ -24,8 +24,8 @@ Concept artists can use an AI like this to enable their creativity and help them
 
 Now this AI is not perfect and learning how to write a good prompt, it takes practice in order to start understanding how the AI processes the prompts. You will get some interesting results along the way.
 
-  Right     Left     Center     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
