@@ -19,22 +19,22 @@ This tech is absolutely game changing, and all for the right reasons! I have spo
 Concept artists can use an AI like this to enable their creativity and help them come up with more varied and creative Ideas, This would like finding just the right reference for your work, but instead of going to google for it, you are creating your own reference imaged based particularly on what  prompts you are looking for.
 
 <style>
-	.demo {
+	.mytable {
 		border:1px none #C0C0C0;
 		border-collapse:collapse;
 		padding:5px;
 	}
-	.demo th {
+	.mytable th {
 		border:1px none #C0C0C0;
 		padding:5px;
 		background:#F0F0F0;
 	}
-	.demo td {
+	.mytable td {
 		border:1px none #C0C0C0;
 		padding:5px;
 	}
 </style>
-<table class="demo">
+<table class="mytable">
 	<caption>Table 1</caption>
 	<tbody>
 	<tr>
