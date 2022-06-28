@@ -56,6 +56,6 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 </table>
 </center>
 
-| ![Midjourney-Felipe1.jpg](https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656390414/midjourney-city.png "Midjourney City") |
+| ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) |
 |:--:|
-| /imagine prompt - post apocalyptic ruined city, black and white, aerial view |
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|view |
