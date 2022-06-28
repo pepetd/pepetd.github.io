@@ -5,6 +5,7 @@ date: 2015-03-23 15:32:00 -0400
 categories:
 - Development
 - Blogging
+- Autodesk Maya
 tags:
 - Autodesk Maya
 - Python
