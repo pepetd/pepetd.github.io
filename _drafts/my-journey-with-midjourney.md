@@ -1,5 +1,5 @@
 ---
-title: My Journey with MidJourney
+title: My Journey with Midjourney
 author: Felipe Nogueira
 date: 2022-06-28 17:00:00 -0400
 categories:
@@ -55,3 +55,7 @@ Now this AI is not perfect and learning how to write a good prompt takes practic
 </tbody>
 </table>
 </center>
+
+| Midjourney progress from starting blockouts to final images |
+|:--:|
+| <b>/imagine prompt - post apocalyptic ruined city, black and white, aerial view</b>|
