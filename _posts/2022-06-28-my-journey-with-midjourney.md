@@ -16,7 +16,7 @@ render_with_liquid: true
 
 I have now spent over a month playing with Midjourney during my free time, I have to be honest, I did not know much about it up until the day I got accepted into Beta, and I have been in awe from day one!
 
-This tech is absolutely game changing, and all for the right reasons! I have spoken to some concept artists colleagues of mine and some welcomed this tech and some were concerned with it, thinking that it could render junior concept artists obsolete or make their work less valuable. I actually thing the opposite, this tool can be used to help their creativity and bridge the gap of communication when trying to find what an Art director is asking for.
+This tech is absolutely game changing, and all for the right reasons! I have spoken to some concept artists colleagues of mine and while some welcomed this tech, some were concerned with it, thinking that it could render junior concept artists obsolete or make their work less valuable. I actually thing the opposite, this tool can be used to help their creativity and bridge the gap of communication when trying to find what an Art director is asking for.
 
 Concept artists can use an AI like this to enable their creativity and help them come up with more varied and creative Ideas, This would like finding just the right reference for your work, but instead of going to google for it, you are creating your own reference imaged based particularly on what  prompts you are looking for.
 
@@ -144,11 +144,12 @@ Midjouney should be seen as tool and not a replacement for talented artists. The
 The use cases for this tech are far beyond concept art and illustration, I have seen people now using Midjourney to come up with design for their Dungeons&Dragons characters, album covers, book covers and ever comic books. Its application is essentially endless!
 
 <center>
-  <button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!
-  </button>
+<button class="btn btn-primary" onclick=" window.open('https://www.midjourney.com/','_blank')"> Apply to Midjourney Beta now!
+</button>
 </center>
 
 ## My Midjourney Showcase.
+
 <center>
 <table>
 <caption style="text-align:center">/imagine prompt: vast planet landscape as imagined in the world of DUNE, spaceships landsing --aspect 16:9</caption>
@@ -161,7 +162,7 @@ title="Midjourney Dune Planet"/>
 </tr>
 </tbody>
 </table>
-  <table>
+<table>
 <caption style="text-align:center">/imagine prompt: alien planet, alien plants, bast waste land, vibrant colors, detailed, realistic --aspect 16:9</caption>
 <tbody>
 <tr>
@@ -172,7 +173,7 @@ title="Midjourney Alien Planet"/>
 </tr>
 </tbody>
 </table>
-  <table>
+<table>
 <caption style="text-align:center">/imagine prompt: elven city in the style of tolkien, realistic, rolling clouds through the city, vast landscape --aspect 16:9</caption>
 <tbody>
 <tr>
@@ -183,7 +184,7 @@ title="Midjourney Tolkien Elven City #1"/>
 </tr>
 </tbody>
 </table>
-  <table>
+<table>
 <caption style="text-align:center">/imagine prompt: giant sprawling medieval city by a giant waterfall straight from the world of tolkien --aspect 16:9</caption>
 <tbody>
 <tr>
@@ -194,7 +195,7 @@ title="Midjourney Tolkien Elven City #2"/>
 </tr>
 </tbody>
 </table>
-   <table>
+<table>
 <caption style="text-align:center">/imagine prompt: a robot army fighting in the streets of a ruined city at dawn, explosions, giant mechs, 35mm footage --aspect 16:9</caption>
 <tbody>
 <tr>
@@ -205,7 +206,7 @@ title="Midjourney Mechwarrior"/>
 </tr>
 </tbody>
 </table>
-   <table>
+<table>
 <caption style="text-align:center">/imagine prompt: a vast futuristic city with skyscrapers reaching the clouds at night --aspect 16:9</caption>
 <tbody>
 <tr>
@@ -216,7 +217,7 @@ title="Midjourney Futuristic City"/>
 </tr>
 </tbody>
 </table>
-     <table>
+<table>
 <caption style="text-align:center">/imagine prompt: beautiful cosmic flowers, silky lines, colorful, realistic, relaxing vibe, pretty, full --h 800</caption>
 <tbody>
 <tr>
@@ -227,4 +228,4 @@ title="Midjourney Cosmic Flowers"/>
 </tr>
 </tbody>
 </table>
-  </center>
+</center>
