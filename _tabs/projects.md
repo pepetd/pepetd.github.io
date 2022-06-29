@@ -83,7 +83,7 @@ published: false
 			</div>
      	</td>
 		<td> 
-          div class="image">
+          <div class="image">
     		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568430982/sasktelravingred_c3h5pq.jpg" alt="Sasktel - Raving Red">
     			<div class="image__overlay image__overlay--primary">
         			<div class="image__title"></div>
