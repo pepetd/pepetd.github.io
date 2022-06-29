@@ -225,7 +225,8 @@ title="Midjourney Futuristic City"/>
 <tr>
 <td>
 <img src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1656391314/r9uefrtgwtywmjuqq1ie.png"
-title="Midjourney Cosmic Flowers"/>
+title="Midjourney Cosmic Flowers"
+width="500"/>
 </td>
 </tr>
 </tbody>
