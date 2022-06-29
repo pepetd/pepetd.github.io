@@ -29,12 +29,12 @@ published: false
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    opacity: 0;
+    opacity: 0.5;
     transition: opacity 0.25s;
 }
 
 .image__overlay--blur {
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(5px);
 }
 
 .image__overlay--primary {
