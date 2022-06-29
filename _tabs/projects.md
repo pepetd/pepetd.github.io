@@ -73,7 +73,7 @@ published: false
           <a href="https://vimeo.com/manage/videos/32025413">
           <div class="image">
     		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Yahoo - Using Your Yahoo">
-    			<div class="image__overlay image__overlay--primary">
+    			<div class="image__overlay image__overlay--blur">
         			<div class="image__title"></div>
         				<p class="image__description">
             				Yahoo - Using Your Yahoo
