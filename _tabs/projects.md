@@ -13,7 +13,7 @@ published: false
 		<td> 
           <a href="https://vimeo.com/manage/videos/32025413">
          <img alt="Yahoo Using your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
-         width=250/>
+         width=350/>
       	</a>
      	</td>
 		<td>Column 2</td>
