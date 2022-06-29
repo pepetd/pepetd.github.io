@@ -33,6 +33,17 @@ Bethesda Game Studios</caption>
 </tbody>
 </table>
 <table>
+<caption style="text-align:center">Splinter cell Blacklist - Rigger<br>
+Big Huge Games</caption>
+<tbody>
+<tr>
+<td>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/nsFQzMfcyr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
 <caption style="text-align:center">Kingdoms of Amalur: Reckoning - Lead Technical Artist<br>
 Big Huge Games</caption>
 <tbody>
@@ -44,9 +55,7 @@ Big Huge Games</caption>
 </tbody>
 </table>
 </center>
-
 ## CG Work
-
 <center>
  <table>
 <caption style="text-align:center">ClubHouse - Mother's Little Helper - Character Technical Director<br>
