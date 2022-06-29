@@ -34,7 +34,7 @@ published: false
 }
 
 .image__overlay--blur {
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(2px);
 }
 
 .image__overlay--primary {
