@@ -71,6 +71,28 @@ House of Cool Studios</caption>
 </tbody>
 </table>
  <table>
+<caption style="text-align:center">Infinity - Grebullon - Character Technical Director<br>
+House of Cool Studios</caption>
+<tbody>
+<tr>
+<td>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982596?h=79bbcf5617" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Character Technical Director<br>
+House of Cool Studios</caption>
+<tbody>
+<tr>
+<td>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982732?h=0c190569b8" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+ <table>
 <caption style="text-align:center">Yahoo - Using Your Yahoo - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -93,23 +115,12 @@ House of Cool Studios</caption>
 </tbody>
 </table>
  <table>
-<caption style="text-align:center">Infinity - Grebullon - Character Technical Director<br>
+<caption style="text-align:center">Infinity - Remulak - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
 <tr>
 <td>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982596?h=79bbcf5617" width="750" height="422" frameborder="0" allowfullscreen></iframe>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Character Technical Director<br>
-House of Cool Studios</caption>
-<tbody>
-<tr>
-<td>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982732?h=0c190569b8" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982775?h=268d9382a0" width="750" height="422" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
