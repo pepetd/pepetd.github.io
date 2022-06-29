@@ -8,7 +8,7 @@ published: false
 <style>
 .image {
     position: relative;
-    width: 350px;
+    width: 400px;
 }
 
 .image__img {
@@ -83,18 +83,60 @@ published: false
              </a>
      	</td>
 		<td> 
+          <a href="https://vimeo.com/manage/videos/32025239">
           <div class="image">
-    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568430982/sasktelravingred_c3h5pq.jpg" alt="Sasktel - Raving Red">
-    			<div class="image__overlay image__overlay--primary">
+    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Sasktel - Raving Red">
+    			<div class="image__overlay image__overlay--blur">
         			<div class="image__title"></div>
         				<p class="image__description">
             				Sasktel - Raving Red
         				</p>
    				</div>
 			</div>
+             </a>
      	</td>
 	</tr>
 	<tr>
+		<td>  
+          <a href="https://vimeo.com/manage/videos/32025239">
+          <div class="image">
+    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Sasktel - Raving Red">
+    			<div class="image__overlay image__overlay--blur">
+        			<div class="image__title"></div>
+        				<p class="image__description">
+            				Sasktel - Raving Red
+        				</p>
+   				</div>
+			</div>
+             </a>
+      </td>
+		<td>  
+          <a href="https://vimeo.com/manage/videos/32025239">
+          <div class="image">
+    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Sasktel - Raving Red">
+    			<div class="image__overlay image__overlay--blur">
+        			<div class="image__title"></div>
+        				<p class="image__description">
+            				Sasktel - Raving Red
+        				</p>
+   				</div>
+			</div>
+             </a>
+      </td>
+	</tr>
+  <tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+	</tr>
+  <tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+	</tr>
+  <tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+	</tr>
+  <tr>
 		<td>Custom Table Content</td>
 		<td>Column 4</td>
 	</tr>
