@@ -71,18 +71,14 @@ published: false
 	<tr>
 		<td>
           <div class="image">
-    <img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Yahoo - Using Your Yahoo">
-    <div class="image__overlay image__overlay--primary">
-        <div class="image__title"></div>
-        <p class="image__description">
-            Yahoo - Using Your Yahoo
-        </p>
-    </div>
-</div>
-          <a href="https://vimeo.com/manage/videos/32025413">
-         <img alt="Yahoo - Using Your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
-         width=400/>
-      	</a>
+    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Yahoo - Using Your Yahoo">
+    			<div class="image__overlay image__overlay--primary">
+        			<div class="image__title"></div>
+        				<p class="image__description">
+            				Yahoo - Using Your Yahoo
+        				</p>
+   				</div>
+			</div>
      	</td>
 		<td> 
           <a href="https://vimeo.com/manage/videos/32025413">
