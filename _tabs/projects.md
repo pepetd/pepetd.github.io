@@ -2,7 +2,6 @@
 title: Projects
 icon: fas fa-project-diagram
 order: "2"
-published: false
 
 ---
 A collection of some of my favorite projects that I have worked on.
