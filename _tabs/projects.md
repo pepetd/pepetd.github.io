@@ -14,7 +14,7 @@ A collection of some of my favorite projects that I have worked on.
 <tbody>
 <tr>
 <td>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
@@ -22,3 +22,4 @@ A collection of some of my favorite projects that I have worked on.
 </center>
 
 ## TV & VFX
+
