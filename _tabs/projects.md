@@ -5,6 +5,65 @@ order: "2"
 published: false
 
 ---
+<style>
+.image {
+    position: relative;
+    width: 400px;
+}
+
+.image__img {
+    display: block;
+    width: 100%;
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.image__overlay--primary {
+    background: #009578;
+}
+
+.image__overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+    opacity: 1;
+}
+
+.image__overlay:hover > * {
+    transform: translateY(0);
+}
+
+.image__title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.image__description {
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}
+</style>
 ## TV & VFX Projects
 <center>
 <table>
@@ -16,8 +75,18 @@ published: false
          width=350/>
       	</a>
      	</td>
-		<td>Column 2</td>
-		<td>Column 3</td>
+		<td> 
+          <a href="https://vimeo.com/manage/videos/32025413">
+         <img alt="Yahoo Using your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
+         width=350/>
+      	</a>
+     	</td>
+		<td> 
+          <a href="https://vimeo.com/manage/videos/32025413">
+         <img alt="Yahoo Using your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
+         width=350/>
+      	</a>
+     	</td>
 	</tr>
 	<tr>
 		<td>Custom Table Content</td>
