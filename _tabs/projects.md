@@ -8,7 +8,7 @@ published: false
 <style>
 .image {
     position: relative;
-    width: 400px;
+    width: 350px;
 }
 
 .image__img {
@@ -29,7 +29,7 @@ published: false
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    opacity: 0.5;
+    opacity: 0;
     transition: opacity 0.25s;
 }
 
@@ -71,7 +71,9 @@ published: false
 	<tr>
 		<td>
           <div class="image">
+            <a href="https://vimeo.com/manage/videos/32025413">
     		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Yahoo - Using Your Yahoo">
+            </a>
     			<div class="image__overlay image__overlay--primary">
         			<div class="image__title"></div>
         				<p class="image__description">
@@ -81,10 +83,15 @@ published: false
 			</div>
      	</td>
 		<td> 
-          <a href="https://vimeo.com/manage/videos/32025413">
-         <img alt="Yahoo Using your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
-         width=400/>
-      	</a>
+          div class="image">
+    		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568430982/sasktelravingred_c3h5pq.jpg" alt="Sasktel - Raving Red">
+    			<div class="image__overlay image__overlay--primary">
+        			<div class="image__title"></div>
+        				<p class="image__description">
+            				Sasktel - Raving Red
+        				</p>
+   				</div>
+			</div>
      	</td>
 	</tr>
 	<tr>
