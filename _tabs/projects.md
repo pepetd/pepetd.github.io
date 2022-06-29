@@ -10,7 +10,8 @@ A collection of some of my favorite projects that I have worked on.
 ## Games
 <center>
 <table>
-<caption style="text-align:center">/Role - Lead Technical Artist</caption>
+<caption style="text-align:center">Starfield /Role - Lead Technical Artist
+  Bethesda Game Studios</caption>
 <tbody>
 <tr>
 <td>
