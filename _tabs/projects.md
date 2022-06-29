@@ -49,12 +49,23 @@ Big Huge Games</caption>
 
 <center>
  <table>
-<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Character Technical Director<br>
+<caption style="text-align:center">ClubHouse - Mother's Little Helper - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
 <tr>
 <td>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982732?h=0c190569b8" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982250?h=45693b89db" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+   <table>
+<caption style="text-align:center">Sasktel - Bundles - Character Technical Director<br>
+House of Cool Studios</caption>
+<tbody>
+<tr>
+<td>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/32025239?h=d62bbf3710" width="750" height="422" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
@@ -82,17 +93,6 @@ House of Cool Studios</caption>
 </tbody>
 </table>
  <table>
-<caption style="text-align:center">ClubHouse - Mother's Little Helper - Character Technical Director<br>
-House of Cool Studios</caption>
-<tbody>
-<tr>
-<td>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982250?h=45693b89db" width="750" height="422" frameborder="0" allowfullscreen></iframe>
-</td>
-</tr>
-</tbody>
-</table>
- <table>
 <caption style="text-align:center">Infinity - Grebullon - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -103,5 +103,15 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
+<table>
+<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Character Technical Director<br>
+House of Cool Studios</caption>
+<tbody>
+<tr>
+<td>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982732?h=0c190569b8" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
 </center>
- 
