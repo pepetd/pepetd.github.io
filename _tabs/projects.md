@@ -81,17 +81,10 @@ published: false
          width=350/>
       	</a>
      	</td>
-		<td> 
-          <a href="https://vimeo.com/manage/videos/32025413">
-         <img alt="Yahoo Using your Yahoo" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg"
-         width=350/>
-      	</a>
-     	</td>
 	</tr>
 	<tr>
 		<td>Custom Table Content</td>
 		<td>Column 4</td>
-		<td>Column 5</td>
 	</tr>
 </tbody>
 </table>
