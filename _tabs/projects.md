@@ -7,11 +7,12 @@ published: false
 ---
 A collection of some of my favorite projects that I have worked on.
 
-## Games
+## Game Titles
+
 <center>
 <table>
 <caption style="text-align:center">Starfield - Lead Technical Artist<br>
-  									Bethesda Game Studios</caption>
+Bethesda Game Studios</caption>
 <tbody>
 <tr>
 <td>
@@ -20,9 +21,9 @@ A collection of some of my favorite projects that I have worked on.
 </tr>
 </tbody>
 </table>
-  <table>
+<table>
 <caption style="text-align:center">Fallout 4 - Senior Technical Artist<br>
-  									Bethesda Game Studios</caption>
+Bethesda Game Studios</caption>
 <tbody>
 <tr>
 <td>
@@ -31,9 +32,9 @@ A collection of some of my favorite projects that I have worked on.
 </tr>
 </tbody>
 </table>
-  <table>
+<table>
 <caption style="text-align:center">Kingdoms of Amalur: Reckoning - Lead Technical Artist<br>
-  									Big Huge Games</caption>
+Big Huge Games</caption>
 <tbody>
 <tr>
 <td>
@@ -42,8 +43,20 @@ A collection of some of my favorite projects that I have worked on.
 </tr>
 </tbody>
 </table>
+</center>
 
-
-
-
-
+## CG Work
+<center>
+ <table>
+<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Technical Director<br>
+House of Cool Studios</caption>
+<tbody>
+<tr>
+<td>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/31982732?h=0c190569b8" width="750" height="422" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+ 
