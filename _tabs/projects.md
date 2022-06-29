@@ -70,10 +70,9 @@ published: false
 <tbody>
 	<tr>
 		<td>
+          <a href="https://vimeo.com/manage/videos/32025413">
           <div class="image">
-            <a href="https://vimeo.com/manage/videos/32025413">
     		<img class="image__img" src="https://res.cloudinary.com/felipenogueira3d-cloud/image/upload/v1568428023/yahoousingyouryahoo_yanb2s.jpg" alt="Yahoo - Using Your Yahoo">
-            </a>
     			<div class="image__overlay image__overlay--primary">
         			<div class="image__title"></div>
         				<p class="image__description">
@@ -81,6 +80,7 @@ published: false
         				</p>
    				</div>
 			</div>
+             </a>
      	</td>
 		<td> 
           <div class="image">
