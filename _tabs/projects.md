@@ -15,7 +15,7 @@ A collection of some of my favorite projects that I have worked on.
 <tbody>
 <tr>
 <td>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
@@ -26,7 +26,7 @@ A collection of some of my favorite projects that I have worked on.
 <tbody>
 <tr>
 <td>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/X5aJfebzkrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
@@ -37,7 +37,7 @@ A collection of some of my favorite projects that I have worked on.
 <tbody>
 <tr>
 <td>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
 </tbody>
