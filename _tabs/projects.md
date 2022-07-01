@@ -10,18 +10,15 @@ A collection of some of my favorite projects that I have worked on.
 ## Games
 
 <center>
-Starfield - Lead Technical Artist<br>
-Bethesda Game Studios
+Starfield - Lead Technical Artist - Bethesda Game Studios
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <p>
-Fallout 4 - Senior Technical Artist<br>
-Bethesda Game Studios
+Fallout 4 - Technical Artist - Bethesda Game Studios
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/X5aJfebzkrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <p>
-Splinter cell Blacklist - Rigger<br>
-Big Huge Games
+Splinter cell Blacklist - Rigger - Big Huge Games
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/nsFQzMfcyr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <p>
