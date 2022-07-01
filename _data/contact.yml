@@ -28,3 +28,7 @@
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
+# -
+#   type: vimeo
+#   icon: icon: 'fab fa-vimeo-v'
+#   url:  'https://vimeo.com/pepetd'                   # Fill with your stackoverflow homepage
