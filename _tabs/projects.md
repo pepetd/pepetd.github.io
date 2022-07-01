@@ -4,11 +4,10 @@ icon: fas fa-project-diagram
 order: "2"
 
 ---
-A collection of some of my favorite projects that I have worked on.
+<center>
+Showcase page of trailers for the games I have worked on.
 
 ## Games
-
-<center>
   
 ## TV/VFX/Game Trailers
   
