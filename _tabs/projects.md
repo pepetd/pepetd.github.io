@@ -10,36 +10,21 @@ A collection of some of my favorite projects that I have worked on.
 ## Game Titles
 
 <center>
-<iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
  Starfield - Lead Technical Artist<br>
 Bethesda Game Studios
  <br
 <iframe width="750" height="422" src="https://www.youtube.com/embed/X5aJfebzkrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      Fallout 4 - Senior Technical Artist<br>
-Bethesda Game Studios</caption>
+Bethesda Game Studios
  <br>
-<table>
-<caption style="text-align:center">Splinter cell Blacklist - Rigger<br>
-Big Huge Games</caption>
-<tbody>
-<tr>
-<td>
-<iframe width="750" height="422" src="https://www.youtube.com/embed/nsFQzMfcyr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<caption style="text-align:center">Kingdoms of Amalur: Reckoning - Lead Technical Artist<br>
-Big Huge Games</caption>
-<tbody>
-<tr>
-<td>
-<iframe width="750" height="422" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</td>
-</tr>
-</tbody>
-</table>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/nsFQzMfcyr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+Splinter cell Blacklist - Rigger<br>
+Big Huge Games
+<br>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+Kingdoms of Amalur: Reckoning - Lead Technical Artist<br>
+Big Huge Games
 </center>
 
 ## CG Work
