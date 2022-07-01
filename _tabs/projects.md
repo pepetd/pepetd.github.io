@@ -13,6 +13,10 @@ A collection of some of my favorite projects that I have worked on.
 <iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  Starfield - Lead Technical Artist<br>
 Bethesda Game Studios
+ <br
+<iframe width="750" height="422" src="https://www.youtube.com/embed/X5aJfebzkrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     Fallout 4 - Senior Technical Artist<br>
+Bethesda Game Studios</caption>
  <br>
 <table>
 <caption style="text-align:center">Starfield - Lead Technical Artist<br>
