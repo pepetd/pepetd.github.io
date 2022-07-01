@@ -14,9 +14,11 @@ Starfield - Lead Technical Artist - Bethesda Game Studios
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <p>
+<p>
 Fallout 4 - Technical Artist - Bethesda Game Studios
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/X5aJfebzkrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+  <p>
 <p>
 Splinter cell Blacklist - Rigger - Big Huge Games
 <br>
