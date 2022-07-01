@@ -25,7 +25,6 @@ Big Huge Games
 <iframe width="750" height="422" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 Kingdoms of Amalur: Reckoning - Lead Technical Artist<br>
 Big Huge Games
-  <br>
 </center>
 
 ## CG Work
