@@ -29,4 +29,3 @@ Please Visit my Vimeo Page to see some of the work I did before getting into Gam
 <pre>
 <i class="fab fa-vimeo-v fa-lg"></i> <a href="https://vimeo.com/pepetd" title="Felipe's Vimeo Profile" target="_blank">Felipe's Vimeo Profile</a>
 </pre>
-</center>
