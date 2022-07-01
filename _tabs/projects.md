@@ -34,3 +34,4 @@ A collection of some of my favorite projects that I have worked on.
   <pre>
  <i class="fab fa-vimeo-v fa-lg"></i> <a href="https://vimeo.com/pepetd" title="Felipe's Vimeo Profile" target="_blank">Felipe's Vimeo Profile</a>
  </pre>
+  </center>
