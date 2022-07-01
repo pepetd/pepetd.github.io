@@ -8,9 +8,9 @@
    icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
    url:  'https://www.linkedin.com/in/pepetd/'                  # Fill with your Linkedin homepage
 -
-   type: stack-overflow
-   icon: 'fab fa-stack-overflow'
-   url:  'https://stackoverflow.com/users/2292427/pepetd'                  # Fill with your stackoverflow homepage
+   type: vimeo
+   icon: 'fab fa-vimeo-v'
+   url:  'https://vimeo.com/pepetd'                  # Fill with your stackoverflow homepage
 -
   type: email
   icon: 'fas fa-envelope'
@@ -28,3 +28,7 @@
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  'https://stackoverflow.com/users/2292427/pepetd'                  # Fill with your stackoverflow homepage
