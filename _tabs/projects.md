@@ -27,3 +27,10 @@ A collection of some of my favorite projects that I have worked on.
 <br>
 <iframe width="750" height="422" src="https://www.youtube.com/embed/6lhzDkaKi1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </center>
+
+## TV/VFX/Game Trailers
+<center>
+  Please Visit my Vimeo Page to see some of the work I did before getting into Games<br>
+  <pre>
+ <i class="fab fa-vimeo-v fa-lg"></i> <a href="https://vimeo.com/pepetd" title="Felipe's Vimeo Profile" target="_blank">Felipe's Vimeo Profile</a>
+ </pre>
