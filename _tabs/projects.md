@@ -2,6 +2,7 @@
 title: Projects
 icon: fas fa-project-diagram
 order: "2"
+published: false
 
 ---
 A collection of some of my favorite projects that I have worked on.
@@ -9,6 +10,10 @@ A collection of some of my favorite projects that I have worked on.
 ## Game Titles
 
 <center>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/zmb2FJGvnAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ Starfield - Lead Technical Artist<br>
+Bethesda Game Studios
+ <br>
 <table>
 <caption style="text-align:center">Starfield - Lead Technical Artist<br>
 Bethesda Game Studios</caption>
@@ -54,9 +59,11 @@ Big Huge Games</caption>
 </tbody>
 </table>
 </center>
+
 ## CG Work
+
 <center>
- <table>
+<table>
 <caption style="text-align:center">ClubHouse - Mother's Little Helper - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -67,7 +74,7 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
-   <table>
+<table>
 <caption style="text-align:center">Sasktel - Bundles - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -78,7 +85,7 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
- <table>
+<table>
 <caption style="text-align:center">Infinity - Grebullon - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -90,7 +97,7 @@ House of Cool Studios</caption>
 </tbody>
 </table>
 <table>
-<caption style="text-align:center">Infinity - Grebullom [Outtake: Door] - Character Technical Director<br>
+<caption style="text-align:center">Infinity - Grebullom \[Outtake: Door\] - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
 <tr>
@@ -100,7 +107,7 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
- <table>
+<table>
 <caption style="text-align:center">Yahoo - Using Your Yahoo - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -111,7 +118,7 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
- <table>
+<table>
 <caption style="text-align:center">Sasktel - Raving Red - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
@@ -122,7 +129,7 @@ House of Cool Studios</caption>
 </tr>
 </tbody>
 </table>
- <table>
+<table>
 <caption style="text-align:center">Infinity - Remulak - Character Technical Director<br>
 House of Cool Studios</caption>
 <tbody>
