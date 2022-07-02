@@ -6,7 +6,7 @@ order: "2"
 ---
 <head>
 <style>
-  .container {
+  container {
   position: relative;
   overflow: hidden;
   width: 100%;
@@ -14,7 +14,7 @@ order: "2"
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
-.responsive-iframe {
+responsive-iframe {
   position: absolute;
   top: 0;
   left: 0;
