@@ -5,7 +5,7 @@ order: "2"
 published: false
 
 ---
-<head>
+
 <style>
   container {
   position: relative;
@@ -25,7 +25,6 @@ responsive-iframe {
   height: 100%;
 }
   </style>
-  </head>
 
 <center>
 Showcase page of trailers for the games I have worked on.
