@@ -5,6 +5,7 @@ order: "2"
 published: false
 
 ---
+<head>
 <style>
   .container {
   position: relative;
@@ -24,6 +25,7 @@ published: false
   height: 100%;
 }
   </style>
+  </head>
 
 <center>
 Showcase page of trailers for the games I have worked on.
