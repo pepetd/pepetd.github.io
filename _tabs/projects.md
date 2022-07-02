@@ -5,8 +5,6 @@ order: "2"
 published: false
 
 ---
-
-
 <center>
 Showcase page of trailers for the games I have worked on.
 <h2>Game Development Work</h2>
